@@ -8,3 +8,9 @@ Here is some information about the project.
 Here i can write some information about something to do with the project.
 
 Here is some more about the project.
+
+## Introduction
+
+## Something
+
+## Conclusion
